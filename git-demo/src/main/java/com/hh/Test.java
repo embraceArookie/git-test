@@ -11,6 +11,7 @@ public class Test {
         System.out.println("hot1");
         System.out.println("push test");
         System.out.println("pull test");
+        System.out.println("github");
 
 
     }
